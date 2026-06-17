@@ -1,6 +1,6 @@
 {
   "name": "pub-api-client",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "TypeScript client for the pub.dev REST API",
   "homepage": "https://github.com/ElJijuna/pub-api-client#readme",
   "bugs": {
