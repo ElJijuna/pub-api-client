@@ -1,0 +1,13 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "out": "docs",
+  "name": "pub-api-client",
+  "readme": "none",
+  "excludeInternal": true,
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "navigationLinks": {
+    "GitHub": "https://github.com/ElJijuna/pub-api-client",
+    "npm": "https://www.npmjs.com/package/pub-api-client"
+  }
+}
