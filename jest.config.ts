@@ -1,8 +1,8 @@
 import type { Config } from 'jest';
+import superJest from 'super-configs/jest';
 
 const config: Config = {
-  preset: 'ts-jest',
-  testEnvironment: 'node',
+  ...superJest,
   testMatch: ['**/*.test.ts'],
   collectCoverageFrom: ['src/**/*.ts'],
   transform: {

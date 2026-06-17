@@ -23,6 +23,6 @@
     "forceConsistentCasingInFileNames": true,
     "ignoreDeprecations": "6.0"
   },
-  "include": ["src"],
+  "include": ["src", "declarations.d.ts"],
   "exclude": ["node_modules", "dist", "**/*.test.ts"]
 }
